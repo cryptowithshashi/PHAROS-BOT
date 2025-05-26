@@ -1,0 +1,81 @@
+✨ [90m[[39m[36m2025-05-26 16:55:36[39m - [35mBot 0-[39m[90m][39m [32m✅ Pharos Bot is live | Wallets loaded: 1[39m
+✨ [90m[[39m[36m2025-05-26 16:55:37[39m - [35mBot 0-[39m[90m][39m [32m🕒 Daily automated task sequence scheduled. Next run at: 2025-05-27T02:00:00.000+05:30[39m
+✨ [90m[[39m[36m2025-05-26 16:55:44[39m - [35mBot 0-[39m[90m][39m [32m⚙️ Set transaction count to: 1[39m
+✨ [90m[[39m[36m2025-05-26 16:55:49[39m - [35mBot 0-[39m[90m][39m [32m🚀 Starting Account Login...[39m
+✨ [90m[[39m[36m2025-05-26 16:55:49[39m - [35mBot 0-[39m[90m][39m [32m🔑 No token found for wallet1. Attempting login...[39m
+✨ [90m[[39m[36m2025-05-26 16:55:52[39m - [35mBot 0-[39m[90m][39m [32m🔑 Logging in to Pharos for wallet1 (0x52cDEc9cc8B6908F4187B02e9215Fc40DB053Ed4)[39m
+✨ [90m[[39m[36m2025-05-26 16:55:53[39m - [35mBot 0-[39m[90m][39m [32m✅ Login successful for wallet1[39m
+✨ [90m[[39m[36m2025-05-26 16:55:58[39m - [35mBot 0-[39m[90m][39m [32m✅ Account Login completed.[39m
+✨ [90m[[39m[36m2025-05-26 16:56:08[39m - [35mBot 0-[39m[90m][39m [32m🚀 Starting Account Check-in...[39m
+✨ [90m[[39m[36m2025-05-26 16:56:08[39m - [35mBot 0-[39m[90m][39m [32m🗓️ Checking in for wallet1 (0x52cDEc9cc8B6908F4187B02e9215Fc40DB053Ed4)[39m
+✨ [90m[[39m[36m2025-05-26 16:56:09[39m - [35mBot 0-[39m[90m][39m [32m✅ Check-in successful for wallet1: ok | 16:56:09 | 26-05-2025[39m
+✨ [90m[[39m[36m2025-05-26 16:56:14[39m - [35mBot 0-[39m[90m][39m [32m✅ Account Check-in completed.[39m
+✨ [90m[[39m[36m2025-05-26 16:56:20[39m - [35mBot 0-[39m[90m][39m [32m🚀 Starting Account Check...[39m
+✨ [90m[[39m[36m2025-05-26 16:56:20[39m - [35mBot 0-[39m[90m][39m [32m📊 Checking Profile Stats for wallet1 (0x52cDEc9cc8B6908F4187B02e9215Fc40DB053Ed4)[39m
+✨ [90m[[39m[36m2025-05-26 16:56:20[39m - [35mBot 0-[39m[90m][39m [32m✅ Profile Stats for wallet1: ID: 32556383, TotalPoints: 20, TaskPoints: 20, InvitePoints: 0 | 16:56:20 | 26-05-2025[39m
+✨ [90m[[39m[36m2025-05-26 16:56:30[39m - [35mBot 0-[39m[90m][39m [32m✅ Account Check completed.[39m
+✨ [90m[[39m[36m2025-05-26 16:56:46[39m - [35mBot 0-[39m[90m][39m [32m🚀 Starting Claim Faucet PHRS...[39m
+✨ [90m[[39m[36m2025-05-26 16:56:46[39m - [35mBot 0-[39m[90m][39m [32m🔍 Checking Faucet status for wallet1 (0x52cDEc9cc8B6908F4187B02e9215Fc40DB053Ed4)[39m
+✨ [90m[[39m[36m2025-05-26 16:56:47[39m - [35mBot 0-[39m[90m][39m [32m🪙 Claiming Faucet for wallet1 (0x52cDEc9cc8B6908F4187B02e9215Fc40DB053Ed4)[39m
+✨ [90m[[39m[36m2025-05-26 16:56:47[39m - [35mBot 0-[39m[90m][39m [31m❌ Faucet claim failed for wallet1: [31muser has not bound X account[39m[31m[39m
+✨ [90m[[39m[36m2025-05-26 16:56:52[39m - [35mBot 0-[39m[90m][39m [32m✅ Claim Faucet PHRS completed.[39m
+✨ [90m[[39m[36m2025-05-26 16:56:59[39m - [35mBot 0-[39m[90m][39m [32m🚀 Starting Claim Faucet USDC...[39m
+✨ [90m[[39m[36m2025-05-26 16:56:59[39m - [35mBot 0-[39m[90m][39m [32m🪙 Claiming USDC for wallet1 (0x52cDEc9cc8B6908F4187B02e9215Fc40DB053Ed4)[39m
+✨ [90m[[39m[36m2025-05-26 16:57:06[39m - [35mBot 0-[39m[90m][39m [31m❌ USDC Claim failed for wallet1: [31msystem error[39m[31m | 16:57:06 | 26-05-2025[39m
+✨ [90m[[39m[36m2025-05-26 16:57:11[39m - [35mBot 0-[39m[90m][39m [32m✅ Claim Faucet USDC completed.[39m
+✨ [90m[[39m[36m2025-05-26 17:00:53[39m - [35mBot 0-[39m[90m][39m [32m✅ Pharos Bot is live | Wallets loaded: 1[39m
+✨ [90m[[39m[36m2025-05-26 17:00:53[39m - [35mBot 0-[39m[90m][39m [32m🕒 Daily automated task sequence scheduled. Next run at: 2025-05-27T02:00:00.000+05:30[39m
+✨ [90m[[39m[36m2025-05-26 17:01:44[39m - [35mBot 0-[39m[90m][39m [32m✅ Pharos Bot is live | Wallets loaded: 1[39m
+✨ [90m[[39m[36m2025-05-26 17:01:44[39m - [35mBot 0-[39m[90m][39m [32m🕒 Daily automated task sequence scheduled. Next run at: 2025-05-27T02:00:00.000+05:30[39m
+✨ [90m[[39m[36m2025-05-26 17:04:02[39m - [35mBot 0-[39m[90m][39m [32m✅ Pharos Bot is live | Wallets loaded: 1[39m
+✨ [90m[[39m[36m2025-05-26 17:04:02[39m - [35mBot 0-[39m[90m][39m [32m🕒 Daily automated task sequence scheduled. Next run at: Tuesday, 27 May 2025 at 02:00:00 AM Indian Standard Time (+05:30)[39m
+✨ [90m[[39m[36m2025-05-26 17:05:30[39m - [35mBot 0-[39m[90m][39m [32m✅ Pharos Bot is live | Wallets loaded: 1[39m
+✨ [90m[[39m[36m2025-05-26 17:05:30[39m - [35mBot 0-[39m[90m][39m [32m🕒 Daily automated task sequence scheduled. Next run at: Tuesday, 27 May 2025 at 02:00:00 AM Indian Standard Time (+05:30)[39m
+✨ [90m[[39m[36m2025-05-26 17:05:32[39m - [35mBot 0-[39m[90m][39m [32m⚙️ Set transaction count to: 1[39m
+✨ [90m[[39m[36m2025-05-26 17:05:39[39m - [35mBot 0-[39m[90m][39m [32m🚀 Starting Account Login...[39m
+✨ [90m[[39m[36m2025-05-26 17:05:39[39m - [35mBot 0-[39m[90m][39m [32m🔑 No token found for wallet1. Attempting login...[39m
+✨ [90m[[39m[36m2025-05-26 17:05:42[39m - [35mBot 0-[39m[90m][39m [32m🔑 Logging in to Pharos for wallet1 (0x7285c343C1D77CdAe3009ab3BdDDd35a90e7a0C7)[39m
+✨ [90m[[39m[36m2025-05-26 17:05:42[39m - [35mBot 0-[39m[90m][39m [32m✅ Login successful for wallet1[39m
+✨ [90m[[39m[36m2025-05-26 17:05:47[39m - [35mBot 0-[39m[90m][39m [32m✅ Account Login completed.[39m
+✨ [90m[[39m[36m2025-05-26 17:05:52[39m - [35mBot 0-[39m[90m][39m [32m🚀 Starting Account Check-in...[39m
+✨ [90m[[39m[36m2025-05-26 17:05:52[39m - [35mBot 0-[39m[90m][39m [32m🗓️ Checking in for wallet1 (0x7285c343C1D77CdAe3009ab3BdDDd35a90e7a0C7)[39m
+✨ [90m[[39m[36m2025-05-26 17:05:53[39m - [35mBot 0-[39m[90m][39m [32m✅ Check-in successful for wallet1: ok | 17:05:53 | 26-05-2025[39m
+✨ [90m[[39m[36m2025-05-26 17:05:58[39m - [35mBot 0-[39m[90m][39m [32m✅ Account Check-in completed.[39m
+✨ [90m[[39m[36m2025-05-26 17:06:01[39m - [35mBot 0-[39m[90m][39m [32m🚀 Starting Account Check...[39m
+✨ [90m[[39m[36m2025-05-26 17:06:01[39m - [35mBot 0-[39m[90m][39m [32m📊 Checking Profile Stats for wallet1 (0x7285c343C1D77CdAe3009ab3BdDDd35a90e7a0C7)[39m
+✨ [90m[[39m[36m2025-05-26 17:06:02[39m - [35mBot 0-[39m[90m][39m [32m✅ Profile Stats for wallet1: ID: 28272775, TotalPoints: 20, TaskPoints: 20, InvitePoints: 0 | 17:06:02 | 26-05-2025[39m
+✨ [90m[[39m[36m2025-05-26 17:06:12[39m - [35mBot 0-[39m[90m][39m [32m✅ Account Check completed.[39m
+✨ [90m[[39m[36m2025-05-26 17:06:15[39m - [35mBot 0-[39m[90m][39m [32m🚀 Starting Claim Faucet PHRS...[39m
+✨ [90m[[39m[36m2025-05-26 17:06:15[39m - [35mBot 0-[39m[90m][39m [32m🔍 Checking Faucet status for wallet1 (0x7285c343C1D77CdAe3009ab3BdDDd35a90e7a0C7)[39m
+✨ [90m[[39m[36m2025-05-26 17:06:15[39m - [35mBot 0-[39m[90m][39m [32m🪙 Claiming Faucet for wallet1 (0x7285c343C1D77CdAe3009ab3BdDDd35a90e7a0C7)[39m
+✨ [90m[[39m[36m2025-05-26 17:06:15[39m - [35mBot 0-[39m[90m][39m [32m✅ Faucet claimed successfully for wallet1[39m
+✨ [90m[[39m[36m2025-05-26 17:06:20[39m - [35mBot 0-[39m[90m][39m [32m✅ Claim Faucet PHRS completed.[39m
+✨ [90m[[39m[36m2025-05-26 17:06:23[39m - [35mBot 0-[39m[90m][39m [32m🚀 Starting Claim Faucet USDC...[39m
+✨ [90m[[39m[36m2025-05-26 17:06:23[39m - [35mBot 0-[39m[90m][39m [32m🪙 Claiming USDC for wallet1 (0x7285c343C1D77CdAe3009ab3BdDDd35a90e7a0C7)[39m
+✨ [90m[[39m[36m2025-05-26 17:06:24[39m - [35mBot 0-[39m[90m][39m [32m✅ USDC Claimed for wallet1 | TxHash: [32mhttps://testnet.pharosscan.xyz/tx/0x58ecd59b5a22e4032e51504b2a864b94122f1d5a3ea9a9652afead6ff8053ff0[39m[32m | 17:06:24 | 26-05-2025[39m
+✨ [90m[[39m[36m2025-05-26 17:06:29[39m - [35mBot 0-[39m[90m][39m [32m✅ Claim Faucet USDC completed.[39m
+✨ [90m[[39m[36m2025-05-26 17:06:32[39m - [35mBot 0-[39m[90m][39m [32m🚀 Starting Swap PHRS to USDC...[39m
+✨ [90m[[39m[36m2025-05-26 17:06:33[39m - [35mBot 0-[39m[90m][39m [32m🔄 Initiating Swap 0.2737 PHRS to USDC for wallet1 (1/1)[39m
+✨ [90m[[39m[36m2025-05-26 17:06:39[39m - [35mBot 0-[39m[90m][39m [31m❌ Error during swap for wallet1: [31mtransaction execution reverted (action="sendTransaction", data=null, reason=null, invocation=null, revert=null, transaction={ "data": "", "from": "0x7285c343C1D77CdAe3009ab3BdDDd35a90e7a0C7", "to": "0x1A4DE519154Ae51200b0Ad7c90F7faC75547888a" }, receipt={ "_type": "TransactionReceipt", "blobGasPrice": null, "blobGasUsed": null, "blockHash": "0xfc4366b0755f680341091e1f6bd2308532c8d94f6ff58bf72e006e9d177a00d4", "blockNumber": 5891631, "contractAddress": null, "cumulativeGasUsed": "23688", "from": "0x7285c343C1D77CdAe3009ab3BdDDd35a90e7a0C7", "gasPrice": "1000000000", "gasUsed": "23688", "hash": "0x46b928674f15b8969d717979efa51b5b9a4b7f54c5dd1898d0d0f1c425ae1644", "index": 29, "logs": [  ], "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000", "root": null, "status": 0, "to": "0x1A4DE519154Ae51200b0Ad7c90F7faC75547888a" }, code=CALL_EXCEPTION, version=6.14.1)[39m[31m | 17:06:39 | 26-05-2025[39m
+✨ [90m[[39m[36m2025-05-26 17:06:39[39m - [35mBot 0-[39m[90m][39m [32m✅ Swap PHRS to USDC completed.[39m
+✨ [90m[[39m[36m2025-05-26 17:06:56[39m - [35mBot 0-[39m[90m][39m [32m🚀 Starting Swap PHRS to USDT...[39m
+✨ [90m[[39m[36m2025-05-26 17:07:02[39m - [35mBot 0-[39m[90m][39m [32m🔄 Initiating Swap 0.462 PHRS to USDT for wallet1 (1/1)[39m
+✨ [90m[[39m[36m2025-05-26 17:07:07[39m - [35mBot 0-[39m[90m][39m [31m❌ Error during swap for wallet1: [31mserver response 500  (request={  }, response={  }, error=null, info={ "requestUrl": "https://testnet.dplabs-internal.com", "responseBody": "{\"error\":{\"code\":-32008,\"message\":\"Unable to complete the request. Please try again later.\"},\"id\":46,\"jsonrpc\":\"2.0\"}", "responseStatus": "500 " }, code=SERVER_ERROR, version=6.14.1)[39m[31m | 17:07:07 | 26-05-2025[39m
+✨ [90m[[39m[36m2025-05-26 17:07:07[39m - [35mBot 0-[39m[90m][39m [32m✅ Swap PHRS to USDT completed.[39m
+✨ [90m[[39m[36m2025-05-26 17:07:17[39m - [35mBot 0-[39m[90m][39m [32m🚀 Starting Add Liquidity PHRS-USDC...[39m
+✨ [90m[[39m[36m2025-05-26 17:07:18[39m - [35mBot 0-[39m[90m][39m [32m🔑 Approving token for 0x7285c343C1D77CdAe3009ab3BdDDd35a90e7a0C7[39m
+✨ [90m[[39m[36m2025-05-26 17:07:26[39m - [35mBot 0-[39m[90m][39m [32m✅ Approval successful for 0x7285c343C1D77CdAe3009ab3BdDDd35a90e7a0C7[39m
+✨ [90m[[39m[36m2025-05-26 17:07:26[39m - [35mBot 0-[39m[90m][39m [32m💧 Initiating Add Liquidity 0.4284 PHRS + 0.4284 USDC for wallet1 (1/1)[39m
+✨ [90m[[39m[36m2025-05-26 17:07:32[39m - [35mBot 0-[39m[90m][39m [31m❌ Error adding liquidity for wallet1: [31mtransaction execution reverted (action="sendTransaction", data=null, reason=null, invocation=null, revert=null, transaction={ "data": "", "from": "0x7285c343C1D77CdAe3009ab3BdDDd35a90e7a0C7", "to": "0xF8a1D4FF0f9b9Af7CE58E1fc1833688F3BFd6115" }, receipt={ "_type": "TransactionReceipt", "blobGasPrice": null, "blobGasUsed": null, "blockHash": "0x262fb425d02e0609fabed3fa5d89fe8d304b5c267324a459aef8de0050dbb482", "blockNumber": 5891869, "contractAddress": null, "cumulativeGasUsed": "25032", "from": "0x7285c343C1D77CdAe3009ab3BdDDd35a90e7a0C7", "gasPrice": "1000000000", "gasUsed": "25032", "hash": "0x1d5def629b0a42ca7c3fe276e2486c75a40805f1d8011384a2b0d4a378a5c0b3", "index": 23, "logs": [  ], "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000", "root": null, "status": 0, "to": "0xF8a1D4FF0f9b9Af7CE58E1fc1833688F3BFd6115" }, code=CALL_EXCEPTION, version=6.14.1)[39m[31m | 17:07:32 | 26-05-2025[39m
+✨ [90m[[39m[36m2025-05-26 17:07:32[39m - [35mBot 0-[39m[90m][39m [32m✅ Add Liquidity PHRS-USDC completed.[39m
+✨ [90m[[39m[36m2025-05-26 17:07:38[39m - [35mBot 0-[39m[90m][39m [32m🚀 Starting Social Task...[39m
+✨ [90m[[39m[36m2025-05-26 17:07:38[39m - [35mBot 0-[39m[90m][39m [32m📝 Verifying task 201 for wallet1 (0x7285c343C1D77CdAe3009ab3BdDDd35a90e7a0C7)[39m
+✨ [90m[[39m[36m2025-05-26 17:07:40[39m - [35mBot 0-[39m[90m][39m [32m✅ Task 201 verified successfully for wallet1 | 17:07:40 | 26-05-2025[39m
+✨ [90m[[39m[36m2025-05-26 17:07:55[39m - [35mBot 0-[39m[90m][39m [32m📝 Verifying task 202 for wallet1 (0x7285c343C1D77CdAe3009ab3BdDDd35a90e7a0C7)[39m
+✨ [90m[[39m[36m2025-05-26 17:07:55[39m - [35mBot 0-[39m[90m][39m [32m✅ Task 202 verified successfully for wallet1 | 17:07:55 | 26-05-2025[39m
+✨ [90m[[39m[36m2025-05-26 17:08:10[39m - [35mBot 0-[39m[90m][39m [32m📝 Verifying task 203 for wallet1 (0x7285c343C1D77CdAe3009ab3BdDDd35a90e7a0C7)[39m
+✨ [90m[[39m[36m2025-05-26 17:08:14[39m - [35mBot 0-[39m[90m][39m [32m✅ Task 203 verified successfully for wallet1 | 17:08:14 | 26-05-2025[39m
+✨ [90m[[39m[36m2025-05-26 17:08:29[39m - [35mBot 0-[39m[90m][39m [32m📝 Verifying task 204 for wallet1 (0x7285c343C1D77CdAe3009ab3BdDDd35a90e7a0C7)[39m
+✨ [90m[[39m[36m2025-05-26 17:08:29[39m - [35mBot 0-[39m[90m][39m [31m❌ Task 204 verification failed for wallet1: [31muser has not joined the Discord server[39m[31m | 17:08:29 | 26-05-2025[39m
+✨ [90m[[39m[36m2025-05-26 17:08:45[39m - [35mBot 0-[39m[90m][39m [32m✅ Social Task completed.[39m
+✨ [90m[[39m[36m2025-05-26 17:12:16[39m - [35mBot 0-[39m[90m][39m [32m👋 Exiting...[39m
